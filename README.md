@@ -1,1 +1,1 @@
-# test
+# CurrenciesMonitor
